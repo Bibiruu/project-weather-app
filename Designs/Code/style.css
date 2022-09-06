@@ -1,0 +1,21 @@
+
+body {
+background-color: antiquewhite;
+display:flex;
+justify-content: center;
+
+}
+
+.header {
+background-color: yellow;
+border-radius: 20px;
+padding: 20px;
+width: 100%;
+max-width: 420px;
+margin: 5px;
+}
+
+weeklyForecast {
+background-color: blue;
+border-radius: 5px ;
+}
