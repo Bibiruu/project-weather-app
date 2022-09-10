@@ -1,6 +1,6 @@
 # Weather App
 
-Replace this readme with your own information about your project.
+Made a weather app with a collaboration.
 
 Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
 
